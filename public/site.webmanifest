@@ -1,0 +1,16 @@
+{
+  "name": "Amodh Saxena — Portfolio",
+  "short_name": "Amodh Saxena",
+  "description": "Portfolio of Amodh Saxena, a Computer Science and Engineering (Data Science) student.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0D10",
+  "theme_color": "#0B0D10",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
